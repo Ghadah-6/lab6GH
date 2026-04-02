@@ -27,7 +27,9 @@ Preserves extreme but valid values
 Task 4: Normalization
 Method	Range
 Min-Max	[0, 1]
+
 Z-Score	Mean=0, Std=1
+
 Task 5: PCA
 Found strong correlations (Rooms vs Bedrooms: ~0.70)
 
